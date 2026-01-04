@@ -1,0 +1,52 @@
+{
+
+    "name": "vivo-sans-webfont-splitted",
+
+    "version": "1.2.0",
+
+    "description": "vivo Sans Webfont Splitted by KonghaYao/cn-font-split.",
+
+    "files": [
+
+        "dist/",
+
+        "vivo_Sans/",
+
+        "lele.js",
+
+        "LICENSE",
+
+        "package.json",
+
+        "README.md"
+
+    ],
+
+    "main": "dist/vivo_Sans/index.css",
+
+    "style": "dist/vivo_Sans/index.css",
+
+    "exports": {
+
+        "default": "./dist/vivo_Sans/index.css"
+
+    },
+
+    "scripts": {
+
+        "test": "echo \"Error: no test specified\" && exit 1",
+
+        "build": "node lele.js",
+
+        "prepublishOnly": "npm run build"
+
+    },
+
+  "author": "Lele",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cn-font-split": "^7.4.1"
+  }
+
+}

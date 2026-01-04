@@ -15,11 +15,11 @@ vivo Sans Webfont Splitted by [KonghaYao/cn-font-split](https://github.com/Kongh
 
 ```plain
 
-https://unpkg.com/harmonyos-sans-webfont-splitted@1.2.0/dist/vivo_Sans/Regular/Regular.css
+https://unpkg.com/vivo-sans-webfont-splitted@1.2.0/dist/vivo_Sans/Regular/Regular.css
 
-https://unpkg.com/harmonyos-sans-webfont-splitted@1.2.0/dist/vivo_Sans/Medium/Medium.css
+https://unpkg.com/vivo-sans-webfont-splitted@1.2.0/dist/vivo_Sans/Medium/Medium.css
 
-https://unpkg.com/harmonyos-sans-webfont-splitted@1.2.0/dist/vivo_Sans/Bold/Bold.css
+https://unpkg.com/vivo-sans-webfont-splitted@1.2.0/dist/vivo_Sans/Bold/Bold.css
 
 ```
 

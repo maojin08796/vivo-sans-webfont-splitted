@@ -1,0 +1,1 @@
+pnpm vite build && chmod +x ./dist/cli.js &&  pnpm test:rust
